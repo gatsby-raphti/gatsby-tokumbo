@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: goldenraphti/gatsby-netlify_cms-test
+  repo: gatsby-raphti/gatsby-netlify_cms-test
 
 media_folder: static/assets
 public_folder: assets
